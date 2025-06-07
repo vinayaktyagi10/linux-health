@@ -108,6 +108,6 @@ You can customize the script to:
 
 ## Contributing
 
-Pull requests are welcome. Feel free to fork and tweak to your needs.
+Pull requests are welcome. Feel free to fork and tweak to your needs. 
 
 MIT License — see LICENSE file for details.
